@@ -20,7 +20,7 @@ header {
 
 
 body {
-    background-image: url(/src/assets/mundao.jpg);
+    background-image: url(./src/assets/mundao.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
